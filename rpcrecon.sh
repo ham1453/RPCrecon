@@ -1,7 +1,6 @@
 #!/bin/bash
 
-# By @m4lal0
-
+#0x096R
 # Regular Colors
 Black='\033[0;30m'      # Black
 Red='\033[0;31m'        # Red
